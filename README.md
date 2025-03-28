@@ -3,11 +3,11 @@
 
 #######################################################################################################################################################
 # 
-# Name:
+# Name: Samarth Gupta
 # SID:740092276
-# Exam Date:
-# Module:
-# Github link for this assignment:  
+# Exam Date: 28 March 2024
+# Module:Programming for Business Analytics
+# Github link for this assignment:  https://github.com/UniversityExeterBusinessSchool/practiceassessment-friday-samarthgupta2104
 #
 # ######################################################################################################################################################
 # Instruction 1. Read the questions and instructions carefully and complete scripts.
@@ -218,3 +218,4 @@ plt.grid(True)
 plt.show()
 
 # the output will be a histogram of 100 random numbers
+
